@@ -1,9 +1,11 @@
 # RightNow
 
+
 ## Oregon Campaign Trail: Civic Engagement For Candidates
 
 - game
 - given data
+
 
 
 
@@ -16,6 +18,7 @@
 
 
 
+
 ## Lane County And Symantec: Homeless Resource Finder (Combined Challenge)
 
 - app
@@ -24,10 +27,12 @@
 
 
 
+
 ## City Of Eugene: Tools For Community Engagement
 
 - 内容包含community 最近街道社区的change，需要包含提醒人们目前的变动
 - 目前来看IOS APP是适合的，引入GPS和后台导航根据类似Firebase的数据库，实时记录包含提醒服务类似于当人经过时发推送
+
 
 
 
@@ -39,11 +44,13 @@
 
 
 
+
 ## Carry It Forward: Top 5 Donations For Specific Chronically Homeless Folks
 
 - IOS homeless 人脸识别，可查询人物信息和资助。（暂时不考虑）
 
   
+
 
 ## Lane County Government: Speed Up America (Grand Challenge)
 
