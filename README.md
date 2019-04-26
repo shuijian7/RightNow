@@ -1,7 +1,7 @@
 # RightNow
 
 
-## Oregon Campaign Trail: Civic Engagement For Candidates
+## Oregon Campaign Trail: Civic Engagement For Candidates （0 票）
 
 - game
 - given data
@@ -9,7 +9,7 @@
 
 
 
-## HIV Alliance And Shelter Care: Data Collection And Storage (Combined Challenge)
+## HIV Alliance And Shelter Care: Data Collection And Storage (Combined Challenge) （6票）
 
 - shelter：IOSAPP  ：
   - 为流浪汉提供的一个app貌似？通过app可以帮助后累找到适合他们的工作帮助他们找到技能
@@ -19,7 +19,7 @@
 
 
 
-## Lane County And Symantec: Homeless Resource Finder (Combined Challenge)
+## Lane County And Symantec: Homeless Resource Finder (Combined Challenge) （4票）
 
 - app
 - realtime 更新版本
@@ -28,7 +28,7 @@
 
 
 
-## City Of Eugene: Tools For Community Engagement
+## City Of Eugene: Tools For Community Engagement （0 票）
 
 - 内容包含community 最近街道社区的change，需要包含提醒人们目前的变动
 - 目前来看IOS APP是适合的，引入GPS和后台导航根据类似Firebase的数据库，实时记录包含提醒服务类似于当人经过时发推送
@@ -36,7 +36,7 @@
 
 
 
-## City Of Eugene - Parking Services: Urban Pong
+## City Of Eugene - Parking Services: Urban Pong （0 票）
 
 - 手机游戏
 - 要求可以在室外玩：有wifi控制灯和rasmery pi以及wifi router提供
@@ -45,14 +45,15 @@
 
 
 
-## Carry It Forward: Top 5 Donations For Specific Chronically Homeless Folks
+## Carry It Forward: Top 5 Donations For Specific Chronically Homeless Folks （5 票）
 
 - IOS homeless 人脸识别，可查询人物信息和资助。（暂时不考虑）
+- 二维码扫一扫donate 后累
 
   
 
 
-## Lane County Government: Speed Up America (Grand Challenge)
+## Lane County Government: Speed Up America (Grand Challenge) （0 票）
 
 - map中显示区域内网速的情况，可以提供实时监测和用户之间的交流。
 - IOS APP，需要数据库，OAth之类的服务提供实时监测和用户交流。
